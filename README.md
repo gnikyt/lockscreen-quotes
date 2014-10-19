@@ -4,7 +4,7 @@ This is a simple script that will parse a directory of quote files and set it to
 ## Installation
 
 1. Clone this repository
-2. Insert quotes into the quotes/ folder or anywhere you please
+2. Insert quotes into the quotes/ folder or anywhere you please (example: quote1.txt, quote2.txt)
 
 ## Usage
 
@@ -14,4 +14,4 @@ Example:
 
 `sudo ruby lockscreen-quotes.rb ./quotes`
 
-![Screenshot](https://raw.github.com/tyler-king/lockscreen-mac/master/screenshot.png "Screenshot")
+![Screenshot](https://github.com/tyler-king/lockscreen-quotes/raw/master/screenshot.png "Screenshot")
